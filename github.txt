@@ -1,0 +1,5 @@
+git clone https://github.com/rony-freitas/exemple-slim-framework.git
+cd exemple-slim-framework
+git add (* or -A)
+git commit -m "Mensagem commit"
+git push -u origin master
